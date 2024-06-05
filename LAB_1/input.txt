@@ -1,0 +1,5 @@
+The goal of the task is to implement encryption/decryption and attack the cipher in two codes: by known plaintext (known plaintext attack) and by ciphertext (ciphertext only attack) using the Caesar cipher principle.
+Implement Caesar cipher encryption/decryption for Latin alphabet.
+Implement an attack on the Caesar cipher using a well-known plaintext. The plaintext and encrypted text are entered, and the encryption key must be determined.
+Implement an attack on the Caesar cipher using ciphertext. Encrypted text is entered and decryption options with all keys are required.
+Improve the program from point 3. Implement integration with some dictionary so that the program automatically produces an encryption key when it finds meaningful text (the one that is in the dictionary).

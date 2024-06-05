@@ -1,0 +1,5 @@
+The goal of the task is to calculate the information entropy of various files and compare the results.
+Write a program that, given a file, determines
+frequency of appearance of characters in it.
+Improve program 1 so that it calculates the entropy of this file from the calculated frequencies.
+Generate several different files. For example, from identical symbols, from random symbols 0 and 1, from random symbols from 0 and 255 Try other options. Make sure that with a large number of identical symbols, the entropy approaches 0. In the case of random symbols, the entropy approaches Log2 (the size of the alphabet).
